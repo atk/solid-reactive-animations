@@ -1,28 +1,18 @@
 {
-  "/[...404]": [
-    {
-      "type": "script",
-      "href": "/assets/_...404_.61bdb759.js"
-    },
-    {
-      "type": "script",
-      "href": "/assets/entry-client.e1ff8ac7.js"
-    }
-  ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index.ead71fb6.js"
+      "href": "/assets/index.bea50268.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client.e1ff8ac7.js"
+      "href": "/assets/entry-client.cea1939c.js"
     }
   ],
   "*": [
     {
       "type": "script",
-      "href": "/assets/entry-client.e1ff8ac7.js"
+      "href": "/assets/entry-client.cea1939c.js"
     }
   ]
 }

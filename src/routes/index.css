@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #FEFEFE;
+}
+
+main {
+  text-align: center;
+  margin: 0 auto;
+  height: 100%;
+}
+
+@keyframes pulse {
+  0% { opacity: 1.0; }
+  40% { opacity: 0.5; }
+  60% { opacity: 0.5; }
+  100% { opacity: 1.0; }
+}
+
+.active {
+  animation: pulse 1.5s linear infinite;
+  transform-origin: unset;
+}
